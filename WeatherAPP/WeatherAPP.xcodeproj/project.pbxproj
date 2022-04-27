@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4127B9B0281869A300B0F68E /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127B9AF281869A300B0F68E /* WeatherButton.swift */; };
 		4197E4D32816F14C00191C64 /* WeatherAPPApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4197E4D22816F14C00191C64 /* WeatherAPPApp.swift */; };
 		4197E4D52816F14C00191C64 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4197E4D42816F14C00191C64 /* ContentView.swift */; };
 		4197E4D72816F14F00191C64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4197E4D62816F14F00191C64 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4127B9AF281869A300B0F68E /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 		4197E4CF2816F14C00191C64 /* WeatherAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4197E4D22816F14C00191C64 /* WeatherAPPApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAPPApp.swift; sourceTree = "<group>"; };
 		4197E4D42816F14C00191C64 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				4197E4D22816F14C00191C64 /* WeatherAPPApp.swift */,
 				4197E4D42816F14C00191C64 /* ContentView.swift */,
+				4127B9AF281869A300B0F68E /* WeatherButton.swift */,
 				4197E4D62816F14F00191C64 /* Assets.xcassets */,
 				4197E4D82816F14F00191C64 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				4197E4D52816F14C00191C64 /* ContentView.swift in Sources */,
 				4197E4D32816F14C00191C64 /* WeatherAPPApp.swift in Sources */,
+				4127B9B0281869A300B0F68E /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
