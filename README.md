@@ -1,5 +1,8 @@
 #Example of SwiftUI Design
 
-![DayMode] (/Users/igorarhipov/Desktop/DayMode.png)
+##Day Mode
 
-![NightMode] (/Users/igorarhipov/Desktop/NightMode.png)
+![](/Users/igorarhipov/Desktop/DayMode.png)
+
+##Night Mode
+
