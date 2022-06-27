@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4127B9B0281869A300B0F68E /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127B9AF281869A300B0F68E /* WeatherButton.swift */; };
+		4162D33C286A550700CF37EA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4162D33B286A550700CF37EA /* README.md */; };
 		4197E4D32816F14C00191C64 /* WeatherAPPApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4197E4D22816F14C00191C64 /* WeatherAPPApp.swift */; };
 		4197E4D52816F14C00191C64 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4197E4D42816F14C00191C64 /* ContentView.swift */; };
 		4197E4D72816F14F00191C64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4197E4D62816F14F00191C64 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		4127B9AF281869A300B0F68E /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
+		4162D33B286A550700CF37EA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		4197E4CF2816F14C00191C64 /* WeatherAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4197E4D22816F14C00191C64 /* WeatherAPPApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAPPApp.swift; sourceTree = "<group>"; };
 		4197E4D42816F14C00191C64 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 		4197E4D12816F14C00191C64 /* WeatherAPP */ = {
 			isa = PBXGroup;
 			children = (
+				4162D33B286A550700CF37EA /* README.md */,
 				4197E4D22816F14C00191C64 /* WeatherAPPApp.swift */,
 				4197E4D42816F14C00191C64 /* ContentView.swift */,
 				4127B9AF281869A300B0F68E /* WeatherButton.swift */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4162D33C286A550700CF37EA /* README.md in Resources */,
 				4197E4DA2816F14F00191C64 /* Preview Assets.xcassets in Resources */,
 				4197E4D72816F14F00191C64 /* Assets.xcassets in Resources */,
 			);
