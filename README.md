@@ -1,8 +1,9 @@
-#Example of SwiftUI Design
+Example of SwiftUI Design
 
-##Day Mode
+Day Mode
 
-![](/Users/igorarhipov/Desktop/DayMode.png)
+<img src="https://github.com/IgorArkhipovP/WeatherApp/blob/main/WeatherAPP/WeatherAPP/Images/DayMode.png" width="200" >
 
-##Night Mode
+Night Mode
 
+<img src="https://github.com/IgorArkhipovP/WeatherApp/blob/main/WeatherAPP/WeatherAPP/Images/NightMode.png" width="200" >
